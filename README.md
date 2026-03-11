@@ -18,7 +18,7 @@ I'm Alikhan an aspiring Java Backend Developer from Kazakhstan
 • More coming soon!  
   
 ## 📬 Contact  
-• [Telegram](https://t.me/guybesideyou)
+• [Telegram](https://t.me/guybesideyou)  
 • [LinkedIn](https://www.linkedin.com/in/alikhan-seidakbarov-4928753b0/)
 <!--
 **4ekkGIT/4ekkGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
