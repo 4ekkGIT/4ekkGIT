@@ -14,7 +14,7 @@ I'm Alikhan an aspiring Java Backend Developer from Kazakhstan
 • Concepts: File I/O, OOP, Collections  
   
 ## 📘 Projects  
-• **ToDo Console App** - a Java console application that allows creating, editing, deleting and saving tasks to a file.  
+• [**ToDo Console App**](https://github.com/4ekkGIT/ToDoList-ConsoleApp) - a Java console application that allows creating, editing, deleting and saving tasks to a file.  
 • More coming soon!  
   
 ## 📬 Contact  
