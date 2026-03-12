@@ -15,7 +15,7 @@ I'm Alikhan an aspiring Java Backend Developer from Kazakhstan
   
 ## 📘 Projects  
 • [**ToDo Console App**](https://github.com/4ekkGIT/ToDoList-ConsoleApp) - a Java console application that allows creating, editing, deleting and saving tasks to a file.  
-• [**Study Session Tracker**](https://github.com/4ekkGIT/StudySessionTracker1) - a simple console Java application for tracking study sessions.
+• [**Study Session Tracker**](https://github.com/4ekkGIT/StudySessionTracker1) - a simple console Java application for tracking study sessions.  
 • More coming soon!
   
 ## 📬 Contact  
