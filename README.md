@@ -14,7 +14,7 @@ I'm Alikhan an aspiring Java Backend Developer from Kazakhstan
 • Concepts: File I/O, OOP, Collections  
   
 ## 📘 Projects  
-- [**My Portfolio WebSite**](https://4ekkgit.github.io/portfolio/) - Nothing too shaby, just a static portfolio website about me and my projects.  
+• [**My Portfolio WebSite**](https://4ekkgit.github.io/portfolio/) - Nothing too shaby, just a static portfolio website about me and my projects.  
 • [**ToDo Console App**](https://github.com/4ekkGIT/ToDoList-ConsoleApp) - a Java console application that allows creating, editing, deleting and saving tasks to a file.  
 • [**Study Session Tracker**](https://github.com/4ekkGIT/StudySessionTracker1) - a simple console Java application for tracking study sessions.  
 • More coming soon!
