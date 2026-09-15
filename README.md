@@ -1,10 +1,10 @@
-<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/a4daf903-865d-4695-8eba-25bd4716569e" /># 💫 About Me:
+# 💫 About Me:
 Information Systems student and Software Developer focused on Java, backend development
 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/alikhan-seidakbarov-4928753b) [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram\&logoColor=white)](https://t.me/@guybesideyou) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alikhan.seidakbarov@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/alikhan-seidakbarov-4928753b) [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram\&logoColor=white)](https://t.me/guybesideyou) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alikhan.seidakbarov@gmail.com)
 
 
 
