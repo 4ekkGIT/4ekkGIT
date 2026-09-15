@@ -4,7 +4,7 @@ Information Systems student and Software Developer focused on Java, backend deve
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/alikhan-seidakbarov-4928753b) [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram\&logoColor=white)](https://t.me/guybesideyou) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alikhan.seidakbarov@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](www.linkedin.com/in/alikhan-seidakbarov-4928753b0) [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram\&logoColor=white)](https://t.me/guybesideyou) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alikhan.seidakbarov@gmail.com)
 
 
 
